@@ -1,0 +1,3590 @@
+[ 
+{
+    "store_id": "MP001",
+    "name": "Antojito630",
+    "coordinates": {
+      "lat": 23.116235,
+      "lon": -82.385169
+    },
+    "distance_to_hospital": 0.5,
+    "collection_date": "2025-11-17",
+    "evidence_path": "evidence/MP001.jpg",
+    "products": [
+      {
+        "name": "Yogurt probiótico sabor Fresa",
+        "category": "yogurt",
+        "brand": "Los Moros",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 850,
+        "net_weight": 1000
+      },
+      {
+        "name": "Yogurt probiótico sabor Natural",
+        "category": "yogurt",
+        "brand": "Los  Moros",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 850,
+        "net_weight": 1000
+      },
+      {
+        "name": "Yogurt probiótico sabor Maracuyá",
+        "category": "yogurt",
+        "brand": "gustatini",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1500,
+        "net_weight": 1000
+      },
+
+      {
+        "name": "Yogurt probiótico sabor Fresa",
+        "category": "yogurt",
+        "brand": "gustatini",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 800,
+        "net_weight": 750
+      },
+
+      {
+        "name": "Yogurt probiótico sabor Natural",
+        "category": "yogurt",
+        "brand": "gustatini",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 800,
+        "net_weight": 750
+      },
+
+
+      {
+        "name": "Agua embotellada",
+        "category": "agua",
+        "brand": "Don Aguilar",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 350,
+        "net_weight": 1000
+      },
+
+      {
+        "name": "Agua embotellada",
+        "category": "agua",
+        "brand": "Don Aguilar",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 200,
+        "net_weight": 500
+      },
+      {
+        "name": "Agua embotellada",
+        "category": "agua",
+        "brand": "Don Aguilar",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 200,
+        "net_weight": 500
+      },
+      {
+        "name": "Jugo Nectar de Mango",
+        "category": "jugos",
+        "brand": "Goliath",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 900,
+        "net_weight": 946
+      },
+      {
+        "name": "Jugo Fruta y leche mediterráneo",
+        "category": "jugos",
+        "brand": "Goliath",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 230,
+        "net_weight": 200
+      },
+
+      {
+        "name": "Jugo de Néctar de Ponche de Frutas",
+        "category": "jugos",
+        "brand": "Del Prado",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 230,
+        "net_weight": 200
+      },
+      {
+        "name": "Galletas Saladas",
+        "category": "galletas",
+        "brand": "Salricas",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1300,
+        "net_weight": 590
+
+      }
+      
+    ]
+  },
+
+  {
+    "store_id": "MP002",
+    "name": "Bodegón de los Manso",
+    "coordinates": {
+      "lat": 23.115699,
+      "lon": -82.385482
+    },
+    "distance_to_hospital": 0.79,
+    "collection_date": "2025-11-17",
+    "evidence_path": "evidence/MP002.jpg",
+
+    "products": [
+
+      {
+        "name": "Galletas Saladas",
+        "category": "galletas",
+        "brand": "Salricas",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1300,
+        "net_weight": 590
+
+      },
+      {
+        "name": "Galletas Saladas",
+        "category": "galletas",
+        "brand": "Salricas",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 390,
+        "net_weight": 176
+
+      },
+      {
+        "name": "Galletas de Soda tipo saltine",
+        "category": "galletas",
+        "brand": "Suoer Yu",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 990,
+        "net_weight": 454
+
+      },
+      {
+        "name": "Carne de Vaca acecinada",
+        "category": "carnes enlatadas",
+        "brand": "Dinda",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 900,
+        "net_weight": 340
+      },
+      {
+        "name": "Lamonilla de Cerdo",
+        "category": "carnes enlatadas",
+        "brand": "Dinda",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 700,
+        "net_weight": 340
+      },
+      {
+        "name": "Papel higiénico",
+        "category": "papel sanitario",
+        "brand": "La Excelencia",
+        "unit": "u",
+        "origin": "nacional",
+        "price_cup": 600,
+        "net_weight": 4
+      },
+      {
+        "name": "Jabón de baño",
+        "category": "jabón",
+        "brand": "Marwa",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 180,
+        "net_weight": 100
+      },
+      {
+        "name": "Maíz dulce en granos",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "Vima",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 650,
+        "net_weight": 425
+      },
+      {
+        "name": "Alubias con Panceta y Chorizo",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "De Cancio",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 750,
+        "net_weight": 420
+      },
+      {
+        "name": "Fabada con Panceta y Chorizo",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "De Cancio",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 750,
+        "net_weight": 420
+      },
+      {
+        "name": "Garbanzos con Panceta y Chorizo",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "De Cancio",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 750,
+        "net_weight": 420
+      },
+      {
+        "name": "Lentejas con Panceta y Chorizo",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "De Cancio",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 750,
+        "net_weight": 420
+      },
+      {
+        "name": "Enzalada de Frutas",
+        "category": "Frutas enlatadas",
+        "brand": "Vima",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 790,
+        "net_weight": 425
+      },
+      {
+        "name": "Fresa",
+        "category": "Frutas enlatadas",
+        "brand": "Vima",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 790,
+        "net_weight": 425
+      },
+      {
+        "name": "Melocotón",
+        "category": "Frutas enlatadas",
+        "brand": "Vima",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 790,
+        "net_weight": 425
+      }
+    ]
+  },
+  {
+    "store_id": "MP003",
+    "name": "Kilo@kKilo",
+    "coordinates": {
+      "lat": 23.1144959,
+      "lon": -82.3855821
+    },
+    "distance_to_hospital": 0.65,
+    "collection_date": "2025-11-17",
+    "evidence_path": "evidence/MP003.jpg",
+
+    "products" : [
+      {
+        "name": "Leche enriquecida con vitaminas A y D",
+        "category": "leche",
+        "brand": "Rica",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1000,
+        "net_weight": 1000
+      },
+      {
+        "name": "Leche evaporada",
+        "category": "leche",
+        "brand": "Guamá",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 650,
+        "net_weight": 355
+      },
+      {
+        "name": "Salsa de Mayonesa",
+        "category": "agregado para bocados",
+        "brand": "HollandPark",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1000,
+        "net_weight": 250
+      },
+      {
+        "name": "Salsa de Mayonesa",
+        "category": "agregado para bocados",
+        "brand": "HollandPark",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1650,
+        "net_weight": 500
+      },
+      {
+        "name": "Salti Crackers",
+        "category": "galletas",
+        "brand": "CoRall",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1120,
+        "net_weight": 590
+      },
+      {
+        "name": "Compota de Manzana",
+        "category": "compota",
+        "brand": "Fresko",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 390,
+        "net_weight": 133
+      },
+      {
+        "name": "Jugo de Mango",
+        "category": "jugos",
+        "brand": "Bodelli",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 220,
+        "net_weight": 200
+      },
+      {
+        "name": "Jugo de coctel de Frutas",
+        "category": "jugos",
+        "brand": "Rayan",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 220,
+        "net_weight": 200
+      },
+      {
+        "name": "Yogurt probiótico sabor Piña",
+        "category": "yogurt",
+        "brand": "Los Moros",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 800,
+        "net_weight": 1000
+      },
+      {
+        "name": "Yogurt probiótico sabor Natural",
+        "category": "yogurt",
+        "brand": "Los  Moros",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 800,
+        "net_weight": 1000
+      },
+      {
+        "name": "Yogurt probiótico sabor Limón",
+        "category": "yogurt",
+        "brand": "Los  Moros",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 800,
+        "net_weight": 1000
+      },
+      {
+        "name": "Yogurt probiótico sabor Naranja",
+        "category": "yogurt",
+        "brand": "Los  Moros",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 800,
+        "net_weight": 1000
+      },
+      {
+        "name": "Pasta de dientes Triple Acción",
+        "category": "pasta dental",
+        "brand": "Colgate",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1300,
+        "net_weight": 140
+      },
+      {
+        "name": "Jabón Rosa",
+        "category": "jabón" ,
+        "brand": "Dove",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1000,
+        "net_weight": 135
+      },
+      {
+        "name": "Jabón exfolioante suave",
+        "category": "jabón",
+        "brand": "Dove",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1000,
+        "net_weight": 135
+      }
+      
+    ]
+
+  },
+  {
+    "store_id": "MP004",
+    "name": "La Complaciente",
+    "coordinates": {
+      "lat": 23.120407,
+      "lon": -82.377583
+    },
+    "distance_to_hospital": 0.65,
+    "collection_date": "2025-11-27",
+    "evidence_path": "evidence/MP004.jpg",
+    
+    "products": [
+      {
+        "name": "Agua embotellada",
+        "category": "agua",
+        "brand": "Awita",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 210,
+        "net_weight": 500
+      },
+      {
+        "name": "Saltitacos",
+        "category": "galletas",
+        "brand": "Tomy",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1190,
+        "net_weight": 590
+      },
+      {
+        "name": "Saltitacos",
+        "category": "galletas",
+        "brand": "Tomy",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1190,
+        "net_weight": 590
+      },
+      {
+        "name": "Desodorante Obao",
+        "category": "desodorante",
+        "brand": "Garnier",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1200,
+        "net_weight": 65
+      },
+      {
+        "name": "Jabón de baño",
+        "category": "jabón",
+        "brand": "Marwa",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 150,
+        "net_weight": 100
+      },
+      {
+        "name": "Papel higiénico",
+        "category": "papel sanitario",
+        "brand": "Joker",
+        "unit": "u",
+        "origin": "importado",
+        "price_cup": 1920,
+        "net_weight": 12
+      },
+      {
+        "name": "Pasta de diente",
+        "category": "pasta dental",
+        "brand": "Coigare",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 600,
+        "net_weight": 130
+      },
+      {
+        "name": "Jugo de Manzana",
+        "category": "jugos",
+        "brand": "Bodelli",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 200,
+        "net_weight": 200
+      }
+    ]
+
+  },
+  {
+    "store_id": "MP005",
+    "name": "La Tentación",
+    "coordinates": {
+      "lat": 23.108866,
+      "lon": -82.382858
+    },
+    "distance_to_hospital": 0.35,
+    "collection_date": "2025-11-27",
+    "evidence_path": "evidence/MP005.jpg",
+    "products": [
+      {
+        "name": "Champú de romero",
+        "category": "shampoo",
+        "brand": "IMNA",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 1000,
+        "net_weight": 500
+      },
+      {
+        "name": "Champú sin sal",
+        "category": "shampoo",
+        "brand": "Natural(Suchel Camacho)",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 1900,
+        "net_weight": 400
+      },
+  
+      {
+        "name": "Leche evaporada",
+        "category": "leche",
+        "brand": "Guamá",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 650,
+        "net_weight": 355
+      },
+      {
+        "name": "Enzalada de Frutas",
+        "category": "Frutas enlatadas",
+        "brand": "Vima",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1000,
+        "net_weight": 425
+      },
+      {
+        "name": "Maíz dulce en granos",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "Vima",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 780,
+        "net_weight": 425
+      },
+      {
+        "name": "Yogurt probiótico sabor Fresa",
+        "category": "yogurt",
+        "brand": "gustatini",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1600,
+        "net_weight": 1000
+      },
+      
+      {
+        "name": "Yogurt probiótico sabor Guanábana",
+        "category": "yogurt",
+        "brand": "gustatini",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1600,
+        "net_weight": 1000
+      },
+      {
+        "name": "Yogurt probiótico sabor Natural",
+        "category": "yogurt",
+        "brand": "gustatini",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1600,
+        "net_weight": 1000
+      },
+      
+      {
+        "name": "Yogurt probiótico sabor Naranja",
+        "category": "yogurt",
+        "brand": "gustatini",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1600,
+        "net_weight": 1000
+      },
+
+      {
+        "name": "Agua embotellada",
+        "category": "agua",
+        "brand": "Ciego Montero",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 170,
+        "net_weight": 500
+      },
+
+      {
+        "name": "Jugo de  Nectar de Manzana",
+        "category": "jugos",
+        "brand": "Twist",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 200,
+        "net_weight": 200
+      },
+      {
+        "name": "Jugo de  Nectar de Mango",
+        "category": "jugos",
+        "brand": "Twist",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 200,
+        "net_weight": 200
+      },
+      {
+        "name": "Jugo de Nectar Coctel de Frutas",
+        "category": "jugos",
+        "brand": "Twist",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 200,
+        "net_weight": 200
+      },
+      {
+        "name": "Jugo de Nectar de Pera",
+        "category": "jugos",
+        "brand": "Twist",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 200,
+        "net_weight": 200
+      }
+
+    ]
+  },
+
+  {
+    "store_id": "MP006",
+    "name": "OnBazar Tropical Plus",
+    "coordinates": {
+      "lat": 23.108246,
+      "lon": -82.383185
+    },
+    "distance_to_hospital": 0.31,
+    "collection_date": "2025-11-27",
+    "evidence_path": "evidence/MP006.jpg",
+
+    "products": [
+      {
+        "name": "Enltado de Vegetales Mixtos",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "Fair Fill Farms",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 890,
+        "net_weight": 425
+      },
+      {
+        "name": "Enlatado de arvejas",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "Pramesa",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 300,
+        "net_weight": 280
+      },
+      {
+        "name": "Atún enlatado",
+        "category": "carnes enlatadas",
+        "brand": "Yeli",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 4500,
+        "net_weight": 650
+      },
+      {
+        "name": "Jamón de Pollo",
+        "category": "carnes enlatadas",
+        "brand": "Oderich",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 700,
+        "net_weight": 320
+      },
+      {
+        "name": "Maíz dulce en granos",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "Vima",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 690,
+        "net_weight": 425
+      },
+      {
+        "name": "Pera",
+        "category": "Frutas enlatadas",
+        "brand": "Vima",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 760,
+        "net_weight": 425
+      },
+      {
+        "name": "Mermelada de Mango",
+        "category": "compota",
+        "brand": "El Roble",
+        "unit": "g",
+        "origin": "nacional",
+        "price_cup": 330,
+        "net_weight": 450
+      },
+      {
+        "name": "Mermelada de Guayaba",
+        "category": "compota",
+        "brand": "El Roble",
+        "unit": "g",
+        "origin": "nacional",
+        "price_cup": 665,
+        "net_weight": 1000
+      },
+      {
+        "name": "Mermelada de Mango",
+        "category": "compota",
+        "brand": "El Roble",
+        "unit": "g",
+        "origin": "nacional",
+        "price_cup": 665,
+        "net_weight": 1000
+      },
+      {
+        "name": "Saltitacos",
+        "category": "galletas",
+        "brand": "Tomy",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1155,
+        "net_weight": 590
+      },
+      {
+        "name": "Jugo de Nectar de  Pera",
+        "category": "jugos",
+        "brand": "Goliath",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 720,
+        "net_weight": 946
+      },
+      {
+        "name": "Jugo de Nectar de Melocotón",
+        "category": "jugos",
+        "brand": "Goliath",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 720,
+        "net_weight": 946
+      },
+      {
+        "name": "Jugo de Nectar de Guayaba",
+        "category": "jugos",
+        "brand": "Goliath",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 720,
+        "net_weight": 946
+      },
+      {
+        "name": "Jugo de coctel de Frutas",
+        "category": "jugos",
+        "brand": "Bodelli",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 720,
+        "net_weight": 946
+      },
+      {
+        "name": "Leche Entera",
+        "category": "leche",
+        "brand": "Vima",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1185,
+        "net_weight": 1000
+      },
+
+      {
+        "name": "Leche Entera",
+        "category": "leche",
+        "brand": "Vima",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1185,
+        "net_weight": 1000
+      },
+      {
+        "name": "Papel higiénico",
+        "category": "papel sanitario",
+        "brand": "La Excelencia",
+        "unit": "u",
+        "origin": "importado",
+        "price_cup": 560,
+        "net_weight": 4
+      },
+      {
+        "name": "Jabón de baño violet",
+        "category": "jabón",
+        "brand": "Spring",
+        "unit": "u",
+        "origin": "importado",
+        "price_cup": 180,
+        "net_weight": 115
+      },
+      {
+        "name": "Jabón de baño apple",
+        "category": "jabón",
+        "brand": "Spring",
+        "unit": "u",
+        "origin": "importado",
+        "price_cup": 180,
+        "net_weight": 115
+      
+      }
+
+    ]
+  },
+
+  {
+    "store_id": "MP007",
+    "name": "Bodegón Los Enamorados",
+    "coordinates": {
+      "lat": 23.1151651,
+      "lon": -82.3910515
+    },
+    "distance_to_hospital": 0.876,
+    "collection_date": "2025-11-24",
+    "evidence_path": "evidence/MP007.jpg",
+    "products": [
+      {
+        "name": "Atún enlatado",
+        "category": "carnes enlatadas",
+        "brand": "Portside",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 650,
+        "net_weight": 142
+      },
+      {
+        "name": "Atun enlatado",
+        "category": "carnes enlatadas",
+        "brand": "Chicken of the Sea",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 600,
+        "net_weight": 145
+      },
+      {
+        "name": "Papel higiénico Tiss",
+        "category": "papel sanitario",
+        "brand": "Tiss",
+        "unit": "u",
+        "origin": "importado",
+        "price_cup": 1100,
+        "net_weight": 10
+      
+      },
+      {
+        "name": "Papel higiénico Rose",
+        "category": "papel sanitario",
+        "brand": "Rose",
+        "unit": "u",
+        "origin": "importado",
+        "price_cup": 1200,
+        "net_weight": 10
+      
+      },
+      {
+        "name": "Salsa de Mayonesa",
+        "category": "agregado para bocados",
+        "brand": "Kurtz",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 2700,
+        "net_weight": 887
+      
+      },
+      {
+        "name": "Pasta de dientes Colgate Cavity Protection",
+        "category": "pasta dental",
+        "brand": "Colgate",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1800,
+        "net_weight": 140
+      },
+      {
+        "name": "Jabón de baño",
+        "category": "jabón",
+        "brand": "Marwa",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 160,
+        "net_weight": 100
+      }
+
+    ]
+  },
+
+
+  {
+    
+    "store_id": "MP008",
+    "name": "Sin registrar",
+    "coordinates": {
+      "lat": 23.1148505,
+      "lon": -82.3949303
+    },
+    "distance_to_hospital": 1.1,
+    "collection_date": "2025-11-24",
+    "evidence_path": "evidence/MP008.jpg",
+    "products": [
+      
+      {
+        "name": "Jugo de  Nectar de Manzana",
+        "category": "jugos",
+        "brand": "Bondelli",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 200,
+        "net_weight": 200
+      
+      },
+      {
+        "name": "Saltitacos",
+        "category": "galletas",
+        "brand": "Castellum",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1260,
+        "net_weight":595 
+      },
+      {
+        "name": "Jabón de tocador lavanda",
+        "category": "jabón",
+        "brand": "Kite",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 180,
+        "net_weight": 100
+      },
+      {
+        "name": "Pasta de diente aloe vera",
+        "category": "pasta dental",
+        "brand": "S'Nonas",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 900,
+        "net_weight": 100
+      },
+      {
+        "name": "Desodorante neutro",
+        "category": "desodorante",
+        "brand": "S'Nonas",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 800,
+        "net_weight": 50
+      
+      },
+      {
+        "name": "Desodorante antitranspirante",
+        "category": "desodorante",
+        "brand": "Kooky",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 800,
+        "net_weight": 50
+      
+      },
+      {
+        "name": "Spray-Desodorante",
+        "category": "desodorante",
+        "brand": "Weiss",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1100,
+        "net_weight": 150
+      
+      }
+    ]
+  
+  },
+
+  {
+    
+    "store_id": "MP009",
+    "name": "Bodega Yummy",
+    "coordinates": {
+      "lat": 23.140026,
+      "lon": -82.374852
+    },
+    "distance_to_hospital": 3.7,
+    "collection_date": "2025-12-3",
+    "evidence_path": "evidence/MP009.jpg",
+    "products": [
+
+      {
+        "name": "Mermelada de Guayaba",
+        "category": "compota",
+        "brand": "D'emer",
+        "unit": "g",
+        "origin": "nacional",
+        "price_cup": 600,
+        "net_weight": 450
+      },
+      {
+        "name": "Atun enlatado",
+        "category": "carnes enlatadas",
+        "brand": "Chunk Light",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 650,
+        "net_weight": 142
+      },
+      {
+        "name": "Jugo de Nectar de  Pera",
+        "category": "jugos",
+        "brand": "Sunchy",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 300,
+        "net_weight": 334
+      },
+      {
+        "name": "Jugo de Nectar de Pera",
+        "category": "carnes enlatadas",
+        "brand": "Chunk Light",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 300,
+        "net_weight": 334
+      },
+      {
+        "name": "Agua embotellada",
+        "category": "agua",
+        "brand": "Kirkland",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 180,
+        "net_weight": 500
+      },
+      {
+        "name": "Shampoo de Aciete",
+        "category": "shampoo",
+        "brand": "XtraCare",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1000,
+        "net_weight": 413
+      }
+      
+    ]
+  
+  },
+
+  {
+    
+    "store_id": "MP010",
+    "name": "Mi Merkdito",
+    "coordinates": {
+      "lat": 23.139722,
+      "lon": -82.376208
+    },
+    "distance_to_hospital": 3.6,
+    "collection_date": "2025-12-3",
+    "evidence_path": "evidence/MP010.jpg",
+    "products": [
+      {
+        "name": "Shampoo de huevo y miel",
+        "category": "shampoo",
+        "brand": "Natural",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1300,
+        "net_weight": 400
+      },
+      {
+        "name": "Shampoo extracto de blotina",
+        "category": "shampoo",
+        "brand": "Doxa",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 980,
+        "net_weight": 400
+      },
+      {
+        "name": "Shampoo avocado oil",
+        "category": "shampoo",
+        "brand": "Doxa",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 980,
+        "net_weight": 400
+      },
+      {
+        "name": "Jabón Olav",
+        "category": "jabón",
+        "brand": "Olav",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 160,
+        "net_weight": 100
+      
+      },
+      {
+        "name": "Papel higiénico doble capa",
+        "category": "papel sanitario",
+        "brand": "Coaliment",
+        "unit": "u",
+        "origin": "importado",
+        "price_cup": 850,
+        "net_weight": 4
+      
+      },
+      {
+        "name": "Leche entera",
+        "category": "leche",
+        "brand": "Pascual",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1300,
+        "net_weight": 1000
+      },
+      {
+        "name": "Leche",
+        "category": "leche",
+        "brand": "Vima",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1300,
+        "net_weight": 1000
+      },
+      {
+        "name": "Saldinas en aceite vegetal",
+        "category": "carnes enlatadas",
+        "brand": "Portrane",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 420,
+        "net_weight": 125
+      },
+      {
+        "name": "Saldinas en aceite de girasol",
+        "category": "carnes enlatadas",
+        "brand": "Frontera",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1500,
+        "net_weight": 240
+      },
+      {
+        "name": "Salsa de Mayonesa",
+        "category": "agregado para bocados",
+        "brand": "HollandPark",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1650,
+        "net_weight": 500
+      },
+      {
+        "name": "Enzalada de Frutas",
+        "category": "Frutas enlatadas",
+        "brand": "Vima",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 750,
+        "net_weight": 425
+      },
+      {
+        "name": "Maiz",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "SaborAlsa",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 800,
+        "net_weight": 425
+      },
+      {
+        "name": "Jugo de Manzana",
+        "category": "jugos",
+        "brand": "Dimes",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 250,
+        "net_weight": 200
+      },
+      {
+        "name": "Jugo de Nectar de  Manzana",
+        "category": "jugos",
+        "brand": "Goliath",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 900,
+        "net_weight": 946
+      },
+      {
+        "name": "Agua purificada",
+        "category": "agua",
+        "brand": "Awita",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 200,
+        "net_weight": 600
+      }
+
+
+    ]
+  
+  },
+
+  {
+    
+    "store_id": "MP011",
+    "name": "TENSEN",
+    "coordinates": {
+      "lat": 23.1397267,
+      "lon": -82.3742283
+    },
+    "distance_to_hospital": 3.7,
+    "collection_date": "2025-12-3",
+    "evidence_path": "evidence/MP011.jpg",
+    "products": [
+      {
+        "name": "Yogurt probiótico sabor Fresa",
+        "category": "yogurt",
+        "brand": "gustatini",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1570,
+        "net_weight": 1000
+      },
+      {
+        "name": "Yogurt probiótico saborizado",
+        "category": "yogurt",
+        "brand": "gustatini",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1570,
+        "net_weight": 1000
+      },
+      {
+        "name": "Jugo de pomegranate",
+        "category": "jugos",
+        "brand": "Domty",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 220,
+        "net_weight": 200
+      },
+      {
+        "name": "Jugo de kiwi lemon mint",
+        "category": "jugos",
+        "brand": "Domty",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 220,
+        "net_weight": 200
+      },
+      {
+        "name": "Jugo pink lemonade",
+        "category": "jugos",
+        "brand": "Domty",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 220,
+        "net_weight": 200
+      },
+      {
+        "name": "Jugo de Piña",
+        "category": "jugos",
+        "brand": "Juice Tree",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 990,
+        "net_weight": 1000
+      },
+      {
+        "name": "Agua embotellada",
+        "category": "agua",
+        "brand": "Sultan",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 180,
+        "net_weight": 500
+      },
+      
+      {
+        "name": "Galletas Saladas",
+        "category": "galletas",
+        "brand": "Salricas",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1270,
+        "net_weight": 590
+
+      },
+      {
+        "name": "Galletas Saladas",
+        "category": "galletas",
+        "brand": "Crokatinas",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1270,
+        "net_weight": 590
+
+      },
+      {
+        "name": "Galletas Saladas",
+        "category": "galletas",
+        "brand": "Salricas",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 720,
+        "net_weight": 234
+      }
+      
+    ]
+  
+  },
+
+  {
+    
+    "store_id": "MP012",
+    "name": "KALUCH MARKET",
+    "coordinates": {
+      "lat": 23.1397224,
+      "lon": -82.373885
+    },
+    "distance_to_hospital": 3.7,
+    "collection_date": "2025-12-3",
+    "evidence_path": "evidence/MP012.jpg",
+    "products": [
+      {
+        "name": "Pasta de diente triple accion",
+        "category": "pasta dental",
+        "brand": "Colgate",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1250,
+        "net_weight": 80
+      },
+      {
+        "name": "Spray-Desodorante",
+        "category": "desodorante",
+        "brand": "Axe",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1300,
+        "net_weight": 150
+      },
+      {
+        "name": "Desodorante Obao",
+        "category": "desodorante",
+        "brand": "Obao",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1500,
+        "net_weight": 65
+      },
+      {
+        "name": "Desodorante dove original",
+        "category": "desodorante",
+        "brand": "Dove",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1100,
+        "net_weight": 65
+      },
+      {
+        "name": "Jabón Dove karite",
+        "category": "jabón",
+        "brand": "Dove",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 700,
+        "net_weight": 100
+      },
+      {
+        "name": "Jabón Dove original",
+        "category": "jabón",
+        "brand": "Dove",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 2000,
+        "net_weight": 270
+      },
+      {
+        "name": "Jabón Spring",
+        "category": "jabón",
+        "brand": "Spring",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 180,
+        "net_weight": 100
+      },
+      {
+        "name": "Jugo de Nectar de Melocotón",
+        "category": "jugos",
+        "brand": "Coviran",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1360,
+        "net_weight": 1000
+      },
+      {
+        "name": "Jugo de Manzana",
+        "category": "jugos",
+        "brand": "Coviran",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1360,
+        "net_weight": 1000
+      },
+      {
+        "name": "Jugo de Sumo de Piña, Manzana y Uva",
+        "category": "jugos",
+        "brand": "Gourmet",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1360,
+        "net_weight": 1000
+      },
+      {
+        "name": "Jugo de Manzana",
+        "category": "jugos",
+        "brand": "Dimes",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 250,
+        "net_weight": 200
+      },
+      {
+        "name": "Jugo de frutas mixtas",
+        "category": "jugos",
+        "brand": "Dimes",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 250,
+        "net_weight": 200
+      },
+      {
+        "name": "Jugo de kayisi",
+        "category": "jugos",
+        "brand": "Dimes",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 300,
+        "net_weight": 200
+      },
+      {
+        "name": "Leche Saborizante",
+        "category": "leche",
+        "brand": "Pascual",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 400,
+        "net_weight": 330
+      },
+      {
+        "name": "Galletas de Soda",
+        "category": "galletas",
+        "brand": "Dondé",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 700,
+        "net_weight": 160
+      },
+      {
+        "name": "Galletas Saladas",
+        "category": "galletas",
+        "brand": "Castellum",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1300,
+        "net_weight": 595
+      },
+      {
+        "name": "Salsa de Mayonesa",
+        "category": "agregado para bocados",
+        "brand": "Kurtz",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 2600,
+        "net_weight": 887
+      
+      },
+      {
+        "name": "Salsa de Mayonesa",
+        "category": "agregado para bocados",
+        "brand": "Vima",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1200,
+        "net_weight": 225
+      
+      },
+      {
+        "name": "Salsa de Mayonesa",
+        "category": "agregado para bocados",
+        "brand": "HollandPark",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 950,
+        "net_weight": 250
+      },
+      {
+        "name": "Salsa Cocktail",
+        "category": "agregado para bocados",
+        "brand": "Vima",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1100,
+        "net_weight": 225
+      },
+      {
+        "name": "Mayonesa Casera",
+        "category": "agregado para bocados",
+        "brand": "Vima",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1800,
+        "net_weight": 450
+      },
+      {
+        "name": "Mayonesa",
+        "category": "agregado para bocados",
+        "brand": "Vima",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1300,
+        "net_weight": 300
+      },
+      {
+        "name": "Ensalada Campesina",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "La Costeña",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 500,
+        "net_weight": 105
+      },
+      {
+        "name": "Elote dorado(maiz)",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "La Costeña",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 750,
+        "net_weight": 105
+      },
+      {
+        "name": "Jamón de Pollo",
+        "category": "carnes enlatadas",
+        "brand": "Pampeano",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1200,
+        "net_weight": 320
+      },
+      {
+        "name": "Jamón del diablo de Pollo",
+        "category": "carnes enlatadas",
+        "brand": "Jan",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1350,
+        "net_weight": 200
+      },
+      {
+        "name": "Atún enlatado",
+        "category": "carnes enlatadas",
+        "brand": "Portside",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 800,
+        "net_weight": 142
+      },
+      {
+        "name": "Agua mineral natural",
+        "category": "agua",
+        "brand": "Coviran",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 2800,
+        "net_weight": 5000
+      },
+      {
+        "name": "Garbanzos con Chorizo",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "Vima",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1500,
+        "net_weight": 415
+      },
+      {
+        "name": "Judías con Chorizo",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "Vima",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1300,
+        "net_weight": 415
+      },
+      {
+        "name": "Tuna Premium",
+        "category": "carnes enlatadas",
+        "brand": "Vima",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 6000,
+        "net_weight": 1000
+      },
+      {
+        "name": "Yogurt probiótico Santa Ana",
+        "category": "yogurt",
+        "brand": "Santa Ana",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 1600,
+        "net_weight": 1000
+      },
+      {
+        "name": "Yogurt de fresa",
+        "category": "yogurt",
+        "brand": "Yokey",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 2700,
+        "net_weight": 1500
+      }
+
+    ]
+  
+  },
+
+  {
+    
+    "store_id": "MP013",
+    "name": "Punto Super Market",
+    "coordinates": {
+      "lat": 23.141016,
+      "lon": -82.367266
+    },
+    "distance_to_hospital": 4.1,
+    "collection_date": "2025-12-3",
+    "evidence_path": "evidence/MP013.jpg",
+    "products": [
+      {
+        "name": "Jugo de banana y pinapple",
+        "category": "jugos",
+        "brand": "Dimes",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 170,
+        "net_weight": 200
+      },
+      {
+        "name": "Yogurt probiótico",
+        "category": "yogurt",
+        "brand": "Vida Lactea",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 480,
+        "net_weight": 400
+      },
+      {
+        "name": "Yogurt probiótico",
+        "category": "yogurt",
+        "brand": "Vida Lactea",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 1100,
+        "net_weight": 900
+      },
+      {
+        "name": "Galletas dde Soda",
+        "category": "galletas",
+        "brand": "Molsa",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 70,
+        "net_weight": 30
+      },
+      {
+        "name": "Mayonesa",
+        "category": "agregado para bocados",
+        "brand": "Saude",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 800,
+        "net_weight": 483
+      },
+      {
+        "name": "Saldinas en salsa de tomate",
+        "category": "carnes enlatadas",
+        "brand": "La Sabrosa",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 480,
+        "net_weight": 425
+      },
+      {
+        "name": "Lomitos de Atun",
+        "category": "carnes enlatadas",
+        "brand": "Don Sancho",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 600,
+        "net_weight": 160
+      },
+      {
+        "name": "Pera",
+        "category": "Frutas enlatadas",
+        "brand": "Vima",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 470,
+        "net_weight": 425
+      },
+      {
+        "name": "Macedonia de Verduras",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "Mocitos",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 510,
+        "net_weight": 400
+      },
+      {
+        "name": "Papel higiénico de flores",
+        "category": "papel sanitario",
+        "brand": "Bingo",
+        "unit": "u",
+        "origin": "importado",
+        "price_cup": 160,
+        "net_weight": 1
+      }
+
+    ]
+  },
+
+  {
+    
+    "store_id": "MP014",
+    "name": "El cubanito",
+    "coordinates": {
+      "lat": 23.1337880,
+      "lon": -82.3620799
+    },
+    "distance_to_hospital": 4.0,
+    "collection_date": "2025-12-3",
+    "evidence_path": "evidence/MP014.jpg",
+    "products": [
+      
+      {
+        "name": "Saldinas",
+        "category": "carnes enlatadas",
+        "brand": "San Avellino",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 550,
+        "net_weight": 125
+      },
+      {
+        "name": "Salsa de Mayonesa",
+        "category": "agregado para bocados",
+        "brand": "",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1300,
+        "net_weight": 125
+      },
+      {
+        "name": "Papel higiénico",
+        "category": "papel sanitario",
+        "brand": "La Excelencia",
+        "unit": "u",
+        "origin": "nacional",
+        "price_cup": 600,
+        "net_weight": 4
+      },
+      {
+        "name": "Salti Crackers",
+        "category": "galletas",
+        "brand": "CoRall",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1200,
+        "net_weight": 590
+      },
+      {
+        "name": "Salricas de mantequilla",
+        "category": "galletas",
+        "brand": "Las galletas ricas",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 830,
+        "net_weight": 300
+      },
+      {
+        "name": "Alubias Blancas Cocidas",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "Lozano",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 500,
+        "net_weight": 420
+      },
+      {
+        "name": "Maiz",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "Vima",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 600,
+        "net_weight": 425
+      },
+      {
+        "name": "Atun enlatado en aceite vegetal",
+        "category": "carnes enlatadas",
+        "brand": "Docanned Star",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 600,
+        "net_weight": 140
+      },
+      {
+        "name": "Yogurt probiótico saborizado",
+        "category": "yogurt",
+        "brand": "gustatini",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1300,
+        "net_weight": 1000
+      },
+      {
+        "name": "Yogurt probiótico Piña",
+        "category": "yogurt",
+        "brand": "gustatini",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 700,
+        "net_weight": 500
+      },
+      {
+        "name": "Pera",
+        "category": "Frutas enlatadas",
+        "brand": "Pampa",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 750,
+        "net_weight": 425
+      },
+      {
+        "name": "Peaches",
+        "category": "Frutas enlatadas",
+        "brand": "Pampa",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 750,
+        "net_weight": 425
+      }
+
+
+    ]
+  
+  },
+
+  {
+    
+    "store_id": "MP015",
+    "name": "Mercadito M&G",
+    "coordinates": {
+      "lat": 23.137994,
+      "lon": -82.380943
+    },
+    "distance_to_hospital": 3.3,
+    "collection_date": "2025-12-3",
+    "evidence_path": "evidence/MP015.jpg",
+    "products": [
+      {
+        "name": "Agua mineral natural",
+        "category": "agua",
+        "brand": "Ciego Montero",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 800,
+        "net_weight": 5000
+      
+      },
+      {
+        "name": "Jabón de tocador para piel suave",
+        "category": "jabón",
+        "brand": "Hindustan Times",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 150,
+        "net_weight": 100
+      },
+      {
+        "name": "Jabón sensacion fresh",
+        "category": "jabón",
+        "brand": "Irish Spring",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 570,
+        "net_weight": 104.8
+      
+      },
+      {
+        "name": "Jabón Olav",
+        "category": "jabón",
+        "brand": "Olav",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 170,
+        "net_weight": 100
+      
+      },
+      {
+        "name": "Papel higiénico Jumbo-Practi",
+        "category": "papel sanitario",
+        "brand": "familia",
+        "unit": "u",
+        "origin": "importado",
+        "price_cup": 250,
+        "net_weight": 1
+      
+      },
+      {
+        "name": "Papel higiénico",
+        "category": "papel sanitario",
+        "brand": "La Excelencia",
+        "unit": "u",
+        "origin": "nacional",
+        "price_cup": 690,
+        "net_weight": 4
+      },
+      {
+        "name": "Papel higiénico Jumbo-Practi",
+        "category": "papel sanitario",
+        "brand": "familia",
+        "unit": "u",
+        "origin": "importado",
+        "price_cup": 250,
+        "net_weight": 1
+      
+      },
+      {
+        "name": "Shampoo brasilero",
+        "category": "shampoo",
+        "brand": "Coco Wow!",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1550,
+        "net_weight": 750
+      },
+      {
+        "name": "Shampoo con Colageno",
+        "category": "shampoo",
+        "brand": "Coco Wow!",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1720,
+        "net_weight": 443
+      },
+      {
+        "name": "Desodorante Obao",
+        "category": "desodorante",
+        "brand": "Obao",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1500,
+        "net_weight": 65
+      },
+
+      {
+        "name": "Pasta de dientes Colgate Cavity Protection",
+        "category": "pasta dental",
+        "brand": "Colgate",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 2150,
+        "net_weight": 226
+      },
+
+      {
+        "name": "Pasta de dientes menta fresh",
+        "category": "pasta dental",
+        "brand": "Coigore",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 550,
+        "net_weight": 100
+      },
+      {
+        "name": "Salricas de mantequilla",
+        "category": "galletas",
+        "brand": "Las galletas ricas",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 860,
+        "net_weight": 300
+      },
+      {
+        "name": "Galletas de Soda",
+        "category": "galletas",
+        "brand": "San Jorge",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 720,
+        "net_weight": 150
+      },
+      {
+        "name": "Galletas dde Soda saltin",
+        "category": "galletas",
+        "brand": "Crackeñas",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 560,
+        "net_weight": 150
+      },
+
+
+      {
+        "name": "Pasta para bocaditos",
+        "category": "agregado para bocados",
+        "brand": "Aldaketa",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 2120,
+        "net_weight": 465
+      },
+
+      {
+        "name": "Mayonesa Americana",
+        "category": "agregado para bocados",
+        "brand": "Nonapepa",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 550,
+        "net_weight": 200
+      },
+      {
+        "name": "Mayonesa",
+        "category": "agregado para bocados",
+        "brand": "Celorrio",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1900,
+        "net_weight": 500
+      },
+      {
+        "name": "Enzalada de Frutas",
+        "category": "Frutas enlatadas",
+        "brand": "Vima",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 730,
+        "net_weight": 425
+      },
+      {
+        "name": "Fresa",
+        "category": "Frutas enlatadas",
+        "brand": "Vima",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 790,
+        "net_weight": 425
+      },
+      {
+        "name": "Melocotón",
+        "category": "Frutas enlatadas",
+        "brand": "Vima",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 850,
+        "net_weight": 425
+      },
+      {
+        "name": "Jamón de Pollo",
+        "category": "carnes enlatadas",
+        "brand": "Pampeano",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1000,
+        "net_weight": 320
+      },
+      {
+        "name": "Jamonilla de Cerdo",
+        "category": "carnes enlatadas",
+        "brand": "Oderich",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 850,
+        "net_weight": 340
+      },
+      {
+        "name": "Atun enlatado en aceite vegetal",
+        "category": "carnes enlatadas",
+        "brand": "Docanned Star",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 650,
+        "net_weight": 140
+      },
+      {
+        "name": "Abicuelas",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "Country Barn",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 400,
+        "net_weight": 411
+      },
+      {
+        "name": "Garbanzos",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "Economic-o",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 600,
+        "net_weight": 397
+      },
+      {
+        "name": "Maiz",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "Vima",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 700,
+        "net_weight": 425
+      },
+      {
+        "name": "Macedonia de Verduras",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "Vima",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1090,
+        "net_weight": 390
+      },
+      {
+        "name": "Maiz",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "Goya",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 630,
+        "net_weight": 248
+      },
+      {
+        "name": "Guisantes",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "Goya",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 680,
+        "net_weight": 241
+      }
+
+      
+    ]
+  
+  },
+
+  {
+    
+    "store_id": "MP018",
+    "name": "Medio Litro",
+    "coordinates": {
+      "lat": 23.109116,
+      "lon": -82.382971
+    },
+    "distance_to_hospital": 0.340,
+    "collection_date": "2025-11-17",
+    "evidence_path": "evidence/MP018.jpg",
+    "products": [
+      {
+        "name": "Galletas Saladas",
+        "category": "galletas",
+        "brand": "Salricas",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1300,
+        "net_weight": 590
+
+      },
+      {
+        "name": "Salricas de mantequilla",
+        "category": "galletas",
+        "brand": "Las galletas ricas",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 870,
+        "net_weight": 300
+      },
+      {
+        "name": "Agua embotellada",
+        "category": "agua",
+        "brand": "Don Aguilar",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 350,
+        "net_weight": 1000
+      },
+      {
+        "name": "Papel higiénico Tiss",
+        "category": "papel sanitario",
+        "brand": "Tiss",
+        "unit": "u",
+        "origin": "importado",
+        "price_cup": 1200,
+        "net_weight": 10
+      
+      },
+      {
+        "name": "Jugo Nectar de Mango",
+        "category": "jugos",
+        "brand": "Goliath",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 900,
+        "net_weight": 946
+      },
+      {
+        "name": "Pasta de diente triple accion",
+        "category": "pasta dental",
+        "brand": "Colgate",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1300,
+        "net_weight": 80
+      },
+      {
+        "name": "Champú sin sal",
+        "category": "shampoo",
+        "brand": "Natural(Suchel Camacho)",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 1850,
+        "net_weight": 400
+      }
+
+    ]
+  
+  },
+
+
+  {
+    
+    "store_id": "MP016",
+    "name": "Tu Tiempo",
+    "coordinates": {
+      "lat": 23.1399096,
+      "lon": -82.3758511
+    },
+    "distance_to_hospital": 3.6,
+    "collection_date": "2025-12-3",
+    "evidence_path": "evidence/MP016.jpg",
+    "products": [
+
+      {
+        "name": "Leche desnatada",
+        "category": "leche",
+        "brand": "Gallega",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 680,
+        "net_weight": 1000
+      },
+      {
+        "name": "Leche entera",
+        "category": "leche",
+        "brand": "Gallega",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1760,
+        "net_weight": 1000
+      },
+      {
+        "name": "Leche semidesnatada",
+        "category": "leche",
+        "brand": "Gallega",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1820,
+        "net_weight": 1000
+      },
+      {
+        "name": "Leche oat",
+        "category": "leche",
+        "brand": "Pascual",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1885,
+        "net_weight": 1000
+      },
+      {
+        "name": "Salsa de Mayonesa",
+        "category": "agregado para bocados",
+        "brand": "Mayo",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1050,
+        "net_weight": 500
+      },
+      {
+        "name": "Papel higiénico",
+        "category": "papel sanitario",
+        "brand": "La Excelencia",
+        "unit": "u",
+        "origin": "nacional",
+        "price_cup": 600,
+        "net_weight": 4
+      },
+      {
+        "name": "Jabón mango fruit",
+        "category": "jabón",
+        "brand": "Reebay",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 200,
+        "net_weight": 100
+      },
+      {
+        "name": "Jabón naranja",
+        "category": "jabón",
+        "brand": "Reebay",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 200,
+        "net_weight": 100
+      },
+      {
+        "name": "Desodorante Dove",
+        "category": "desodorante",
+        "brand": "Dove",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 860,
+        "net_weight": 50
+      },
+      {
+        "name": "Shampoo relajante",
+        "category": "shampoo",
+        "brand": "Tulipán Negro",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1650,
+        "net_weight": 650
+      },
+      {
+        "name": "Pasta de dientes Colgate Total",
+        "category": "pasta dental",
+        "brand": "Colgate",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 2160,
+        "net_weight": 120
+      },
+      {
+        "name": "Pasta de dientes Colgate Total Carbon",
+        "category": "pasta dental",
+        "brand": "Colgate",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 2420,
+        "net_weight": 120
+      },
+      {
+        "name": "Jugo Nectar de Mango",
+        "category": "jugos",
+        "brand": "Goliath",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1080,
+        "net_weight": 946
+      },
+      {
+        "name": "Jugo Nectar de Pera",
+        "category": "jugos",
+        "brand": "Goliath",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1080,
+        "net_weight": 946
+      },
+      {
+        "name": "Jugo Nectar de Manzana",
+        "category": "jugos",
+        "brand": "Goliath",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1080,
+        "net_weight": 946
+      },
+      {
+        "name": "Jugo de Manzana",
+        "category": "jugos",
+        "brand": "Yes!",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1000,
+        "net_weight": 1000
+      },
+      {
+        "name": "Pasta para bocaditos",
+        "category": "agregado para bocados",
+        "brand": "Aldaketa",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 2000,
+        "net_weight": 465
+      },
+      {
+        "name": "SaltiBlocks",
+        "category": "galletas",
+        "brand": "Castellum",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1400,
+        "net_weight": 595
+      },
+      {
+        "name": "Salsa de Mayonesa",
+        "category": "agregado para bocados",
+        "brand": "HollandPark",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 2000,
+        "net_weight": 500
+      },
+      {
+        "name": "Salsa de Mayonesa",
+        "category": "agregado para bocados",
+        "brand": "",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1500,
+        "net_weight": 500
+      }
+
+    ]
+  
+  },
+
+  {
+    
+    "store_id": "MP019",
+    "name": "Tic-Toc",
+    "coordinates": {
+      "lat": 23.139295,
+      "lon": -82.3673950
+    },
+     "distance_to_hospital": 3.9,
+    "collection_date": "2025-12-3",
+    "evidence_path": "evidence/MP019.jpg",
+    "products": [
+      {
+        "name": "Salsa de Mayonesa",
+        "category": "agregado para bocados",
+        "brand": "Mayo",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 840,
+        "net_weight": 500
+      },
+      {
+        "name": "Saldinas",
+        "category": "carnes enlatadas",
+        "brand": "San Avellino",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 550,
+        "net_weight": 125
+      },
+      {
+        "name": "Agua mineral natural",
+        "category": "agua",
+        "brand": "Ciego Montero",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 160,
+        "net_weight": 500
+      },
+      {
+        "name": "Papel higiénico",
+        "category": "papel sanitario",
+        "brand": "La Excelencia",
+        "unit": "u",
+        "origin": "importado",
+        "price_cup": 560,
+        "net_weight": 4
+      }
+    ]
+  
+  },
+
+
+  {
+    
+    "store_id": "MP017",
+    "name": "Tic-Toc",
+    "coordinates": {
+      "lat": 23.1399096,
+      "lon": -82.3758511
+    },
+    "distance_to_hospital": 4.0,
+    "collection_date": "2025-12-3",
+    "evidence_path": "evidence/MP017.jpg",
+    "products": [
+      {
+        "name": "Jabón de tocador",
+        "category": "jabón",
+        "brand": "Total Care",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 350,
+        "net_weight": 150
+      },
+      {
+        "name": "Jabón Safecare",
+        "category": "jabón",
+        "brand": "Dovi",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 200,
+        "net_weight": 100
+      },
+      {
+        "name": "Spray-Desodorante",
+        "category": "desodorante",
+        "brand": "Prince",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 950,
+        "net_weight": 150
+      },
+
+      {
+        "name": "Shampoo anticaspa",
+        "category": "shampoo",
+        "brand": "ComforTime",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1000,
+        "net_weight": 400
+      },
+      {
+        "name": "Saltines",
+        "category": "galletas",
+        "brand": "Victoria Garden",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1200,
+        "net_weight": 454
+      },
+
+      {
+        "name": "Galletas de Soda tipo saltine",
+        "category": "galletas",
+        "brand": "Goya",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 850,
+        "net_weight": 220
+      },
+
+      {
+        "name": "Caballa en Salsa de Tomate",
+        "category": "carnes enlatadas",
+        "brand": "Sabrosísimo",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1100,
+        "net_weight": 425
+      },
+
+      {
+        "name": "Caballa en aceite de vegetal",
+        "category": "carnes enlatadas",
+        "brand": "Sabrosísimo",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1100,
+        "net_weight": 425
+      },
+
+      {
+        "name": "Caballa en salmuera",
+        "category": "carnes enlatadas",
+        "brand": "Sabrosísimo",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1100,
+        "net_weight": 425
+      },
+      {
+        "name": "Compota de Manzana",
+        "category": "compota",
+        "brand": "Fair Fill Farms",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1350,
+        "net_weight": 679
+      },
+      {
+        "name": "Atún enlatado",
+        "category": "carnes enlatadas",
+        "brand": "Yeli",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 650,
+        "net_weight": 140
+      },
+
+      {
+        "name": "Atún enlatado",
+        "category": "carnes enlatadas",
+        "brand": "Yeli",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 4250,
+        "net_weight": 1000
+      },
+      {
+        "name": "Pasta de dientes Triple Acción",
+        "category": "pasta dental",
+        "brand": "Colgate",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1300,
+        "net_weight": 113
+      }
+      
+    ]
+  
+  },
+  {
+    
+    "store_id": "MP020",
+    "name": "Sin registrar",
+    "coordinates": {
+      "lat": 23.116840,
+      "lon": -82.400269
+    },
+    "distance_to_hospital": 4.0,
+    "collection_date": "2025-12-9",
+    "evidence_path": "evidence/MP020.jpg",
+    "products": [
+      {
+        "name": "Salti Crackers",
+        "category": "galletas",
+        "brand": "CoRall",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1610,
+        "net_weight": 590
+      },
+      {
+        "name": "Jabón de baño",
+        "category": "jabón",
+        "brand": "Marwa",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 160,
+        "net_weight": 100
+      },
+      {
+        "name": "Papel higiénico Tiss",
+        "category": "papel sanitario",
+        "brand": "Tiss",
+        "unit": "u",
+        "origin": "importado",
+        "price_cup": 1100,
+        "net_weight": 10
+      
+      },
+      {
+        "name": "Peaches",
+        "category": "Frutas enlatadas",
+        "brand": "Vima",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 980,
+        "net_weight": 425
+      },
+      {
+        "name": "Yogurt de fresa",
+        "category": "yogurt",
+        "brand": "PMI",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 300,
+        "net_weight": 120
+      },
+      {
+        "name": "Leche Entera",
+        "category": "leche",
+        "brand": "Vima",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1200,
+        "net_weight": 1000
+      },
+      {
+        "name": "Leche Entera",
+        "category": "leche",
+        "brand": "Sterilgarda",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1480,
+        "net_weight": 1000
+      },
+      {
+        "name": "Jugo de  Nectar de Manzana",
+        "category": "jugos",
+        "brand": "Bondelli",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 200,
+        "net_weight": 200
+      
+      },
+      {
+        "name": "Jugo de  Nectar de Mango",
+        "category": "jugos",
+        "brand": "Bondelli",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 200,
+        "net_weight": 200
+      
+      },
+      {
+        "name": "Yogurt de fresa",
+        "category": "leche",
+        "brand": "Yokey",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 2800,
+        "net_weight": 1500
+      },
+      {
+        "name": "Papel higiénico clasico",
+        "category": "papel sanitario",
+        "brand": "Encanto",
+        "unit": "u",
+        "origin": "importado",
+        "price_cup": 400,
+        "net_weight": 4
+      },
+      {
+        "name": "Desodorante",
+        "category": "desodorante",
+        "brand": "Speed Stick",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 2900,
+        "net_weight": 85
+      },
+      {
+        "name": "Pasta de dientes Triple Acción",
+        "category": "pasta dental",
+        "brand": "Colgate",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1400,
+        "net_weight": 140
+      },
+      {
+        "name": "SaltiBlocks",
+        "category": "galletas",
+        "brand": "Castellum",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1300,
+        "net_weight": 595
+      }
+
+    ]
+  },
+  {
+    
+    "store_id": "MP021",
+    "name": "Sin registrar",
+    "coordinates": {
+      "lat": 23.118675,
+      "lon": -82.402489
+    },
+    "distance_to_hospital": 4.0,
+    "collection_date": "2025-12-9",
+    "evidence_path": "evidence/MP021.jpg",
+    "products": [
+      
+    ]
+  },
+  {
+    
+    "store_id": "MP022",
+    "name": "Sin registrar",
+    "coordinates": {
+      "lat": 23.121138,
+      "lon": -82.405014
+    },
+    "distance_to_hospital": 4.0,
+    "collection_date": "2025-12-9",
+    "evidence_path": "evidence/MP022.jpg",
+    "products": [
+      {
+        "name": "Jabón Olav",
+        "category": "jabón",
+        "brand": "Olav",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 160,
+        "net_weight": 100
+      
+      },
+      {
+        "name": "Papel higiénico",
+        "category": "papel sanitario",
+        "brand": "La Excelencia",
+        "unit": "u",
+        "origin": "nacional",
+        "price_cup": 600,
+        "net_weight": 4
+      },
+      {
+        "name": "Papel higiénico Tiss",
+        "category": "papel sanitario",
+        "brand": "Tiss",
+        "unit": "u",
+        "origin": "importado",
+        "price_cup": 1100,
+        "net_weight": 10
+      
+      },
+      {
+        "name": "Salsa de Mayonesa",
+        "category": "agregado para bocados",
+        "brand": "Kurtz",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 2500,
+        "net_weight": 887
+      
+      },
+      {
+        "name": "Salsa de Mayonesa",
+        "category": "agregado para bocados",
+        "brand": "Celorrio",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1600,
+        "net_weight": 450
+      
+      },
+      {
+        "name": "Maiz",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "Vima",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 750,
+        "net_weight": 425
+      },
+      {
+        "name": "Galletas Saladas",
+        "category": "galletas",
+        "brand": "Crokatinas",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1200,
+        "net_weight": 590
+
+      },
+      {
+        "name": "Salti Crackers",
+        "category": "galletas",
+        "brand": "CoRall",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1300,
+        "net_weight": 590
+      },
+      {
+        "name": "Agua embotellada",
+        "category": "agua",
+        "brand": "Ciego Montero",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 280,
+        "net_weight": 1000
+      },
+      {
+        "name": "Agua embotellada",
+        "category": "agua",
+        "brand": "Ciego Montero",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 160,
+        "net_weight": 500
+      },
+      {
+        "name": "Jugo de  Nectar de Pera",
+        "category": "jugos",
+        "brand": "La Estancia",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 180,
+        "net_weight": 200
+      },
+      {
+        "name": "Jugo de  Nectar de Piña",
+        "category": "jugos",
+        "brand": "La Estancia",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 180,
+        "net_weight": 200
+      },
+      {
+        "name": "Jugo de  Nectar de Manzana",
+        "category": "jugos",
+        "brand": "Bondelli",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 180,
+        "net_weight": 200
+      
+      },
+      {
+        "name": "Jugo de  Nectar de Pera",
+        "category": "jugos",
+        "brand": "Bondelli",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 180,
+        "net_weight": 200
+      
+      },
+      {
+        "name": "Jugo de Nectar de Pera",
+        "category": "jugos",
+        "brand": "Goliath",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 750,
+        "net_weight": 946
+      },
+      {
+        "name": "Jugo de Nectar de  Manzana",
+        "category": "jugos",
+        "brand": "Goliath",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 750,
+        "net_weight": 946
+      },
+      {
+        "name": "Papel higiénico",
+        "category": "papel sanitario",
+        "brand": "La Excelencia",
+        "unit": "u",
+        "origin": "nacional",
+        "price_cup": 600,
+        "net_weight": 4
+      },
+      {
+        "name": "Desodorante fresh",
+        "category": "desodorante",
+        "brand": "Un",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 2000,
+        "net_weight": 65
+      }
+
+
+      
+    ]
+  },
+  {
+    
+    "store_id": "MP023",
+    "name": "Sin registrar",
+    "coordinates": {
+      "lat": 23.13471,
+      "lon": -82.36347
+    },
+    "distance_to_hospital": 3.8,
+    "collection_date": "2025-11-10",
+    "evidence_path": "evidence/MP023.jpg",
+    "products": [
+      {
+        "name": "Salsa de Mayonesa",
+        "category": "agregado para bocados",
+        "brand": "Gosami",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 700,
+        "net_weight": 300
+      },
+      {
+        "name": "Agua mineral natural",
+        "category": "agua",
+        "brand": "Ciego Montero",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 125,
+        "net_weight": 100 
+      },
+      {
+        "name": "Desodorante",
+        "category": "desodorante",
+        "brand": "Wokali",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 530,
+        "net_weight": 65
+      },
+      {
+        "name": "Shampoo de Aciete",
+        "category": "shampoo",
+        "brand": "XtraCare",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1100,
+        "net_weight": 413
+      }
+      
+    ]
+  },
+  {
+    
+    "store_id": "MP024",
+    "name": "Sin registrar",
+    "coordinates": {
+      "lat": 23.121237,
+      "lon": -82.404472
+    },
+    "distance_to_hospital": 4.0,
+    "collection_date": "2025-12-9",
+    "evidence_path": "evidence/MP024.jpg",
+    "products": [
+      {
+        "name": "Salsa de Mayonesa",
+        "category": "agregado para bocados",
+        "brand": "Kurtz",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 2500,
+        "net_weight": 887
+      
+      },
+      {
+        "name": "Atún enlatado",
+        "category": "carnes enlatadas",
+        "brand": "Portside",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 650,
+        "net_weight": 142
+      },
+      {
+        "name": "Saldinas",
+        "category": "carnes enlatadas",
+        "brand": "San Avellino",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 450,
+        "net_weight": 125
+      },
+      {
+        "name": "Maiz",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "SaborAlsa",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 800,
+        "net_weight": 425
+      },
+      {
+        "name": "Leche entera",
+        "category": "leche",
+        "brand": "Pascual",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1200,
+        "net_weight": 1000
+      },
+      {
+        "name": "Pasta para bocaditos",
+        "category": "agregado para bocados",
+        "brand": "Aldaketa",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1700,
+        "net_weight": 465
+      }
+    ]
+  },
+  {
+    
+    "store_id": "MP025",
+    "name": "Sin registrar",
+    "coordinates": {
+      "lat": 23.129221,
+      "lon": -82.402885
+    },
+    "distance_to_hospital": 4.0,
+    "collection_date": "2025-12-9",
+    "evidence_path": "evidence/MP025.jpg",
+    "products": [
+      {
+        "name": "Agua embotellada",
+        "category": "agua",
+        "brand": "Aguita",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 170,
+        "net_weight": 500
+      },
+      {
+        "name": "Salsa de Mayonesa",
+        "category": "agregado para bocados",
+        "brand": "Pramesa",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1000,
+        "net_weight": 225
+      
+      },
+      {
+        "name": "Jabón de tocador para piel suave",
+        "category": "jabón",
+        "brand": "Hindustan Times",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 160,
+        "net_weight": 100
+      },
+      {
+        "name": "Saldinas",
+        "category": "carnes enlatadas",
+        "brand": "San Avellino",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 750,
+        "net_weight": 125
+      },
+      {
+        "name": "Shampoo",
+        "category": "shampoo",
+        "brand": "Hindustan Times",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1550,
+        "net_weight": 750
+      },
+      {
+        "name": "Shampoo",
+        "category": "shampoo",
+        "brand": "DOM",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1550,
+        "net_weight": 750
+      },
+      {
+        "name": "Desodorante de gel",
+        "category": "desodorante",
+        "brand": "Gillete",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 2000,
+        "net_weight": 107
+      },
+      {
+        "name": "Salti Crackers",
+        "category": "galletas",
+        "brand": "CoRall",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1400,
+        "net_weight": 590
+      },
+      {
+        "name": "Papel higiénico",
+        "category": "papel sanitario",
+        "brand": "La Excelencia",
+        "unit": "u",
+        "origin": "nacional",
+        "price_cup": 600,
+        "net_weight": 4
+      }
+    ]
+  },
+
+  {
+    
+    "store_id": "MP026",
+    "name": "Sin registrar",
+    "coordinates": {
+      "lat": 23.13460,
+      "lon": -82.36331
+    },
+    "distance_to_hospital": 3.8,
+    "collection_date": "2025-11-10",
+    "evidence_path": "evidence/MP027.jpg",
+    "products": [
+      {
+        "name": "Desodorante",
+        "category": "desodorante",
+        "brand": "Wokali",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 530,
+        "net_weight": 65
+      },
+      {
+        "name": "SaltiBlocks",
+        "category": "galletas",
+        "brand": "Castellum",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1200,
+        "net_weight": 595
+      },
+      {
+        "name": "Papel higiénico Rose",
+        "category": "papel sanitario",
+        "brand": "Rose",
+        "unit": "u",
+        "origin": "importado",
+        "price_cup": 1100,
+        "net_weight": 10
+      
+      },
+      {
+        "name": "Agua embotellada",
+        "category": "agua",
+        "brand": "Kirkland",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 150,
+        "net_weight": 500
+      },
+      {
+        "name": "Mayonesa", 
+        "category": "agregado para bocados",
+        "brand": "",
+        "unit": "ml",
+        "origin": "",
+        "price_cup": 450,
+        "net_weight": 200
+      },
+      {
+        "name": "Mermelada de Mango",
+        "category": "compota",
+        "brand": "",
+        "unit": "g",
+        "origin": "",
+        "price_cup": 230,
+        "net_weight": 450
+      },
+      {
+        "name": "Jugo",
+        "category": "jugos",
+        "brand": "",
+        "unit": "g",
+        "origin": "nacional",
+        "price_cup": 125,
+        "net_weight": 200
+      }
+    ]
+  },
+  {
+    
+    "store_id": "MP027",
+    "name": "Sin registrar",
+    "coordinates": {
+      "lat": 23.13464,
+      "lon": -82.36299
+    },
+    "distance_to_hospital": 3.8,
+    "collection_date": "2025-11-10",
+    "evidence_path": "evidence/MP027.jpg",
+    "products": [
+      {
+        "name": "Enltado de Vegetales Mixtos",
+        "category": "verduras y legumbres enlatadas",
+        "brand": "Fair Fill Farms",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 890,
+        "net_weight": 425
+      },
+      
+      {
+        "name": "Atún enlatado",
+        "category": "carnes enlatadas",
+        "brand": "Portside",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 700,
+        "net_weight": 142
+      },
+      {
+        "name": "Salsa de Mayonesa",
+        "category": "agregado para bocados",
+        "brand": "Kurtz",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 2300,
+        "net_weight": 887
+      
+      },
+      {
+        "name": "Papel higiénico",
+        "category": "papel sanitario",
+        "brand": "Joker",
+        "unit": "u",
+        "origin": "importado",
+        "price_cup": 1440,
+        "net_weight": 12
+      }
+    ]
+    },
+    {
+    
+    "store_id": "MP028",
+    "name": "Sin registrar",
+    "coordinates": {
+      "lat": 23.13508,
+      "lon": -82.36434
+    },
+    "distance_to_hospital": 3.7,
+    "collection_date": "2025-11-10",
+    "evidence_path": "evidence/MP028.jpg",
+    "products": [
+      {
+        "name": "Agua embotellada",
+        "category": "agua",
+        "brand": "Ciego Montero",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 200,
+        "net_weight": 1000
+      },
+      {
+        "name": "Agua embotellada",
+        "category": "agua",
+        "brand": "Ciego Montero",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 150,
+        "net_weight": 500
+      },
+      {
+        "name": "Jabón de baño",
+        "category": "jabón",
+        "brand": "Marwa",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 140,
+        "net_weight": 100
+      },
+      {
+        "name": "Pasta de dientes Triple Acción",
+        "category": "pasta dental",
+        "brand": "Clogurde",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 760,
+        "net_weight": 113
+      }
+    ]
+    },
+    {
+    "store_id": "MP029",
+    "name": "Sin registrar",
+    "coordinates": {
+      "lat": 23.13462,
+      "lon": -82.37011
+    },
+    "distance_to_hospital": 3.3,
+    "collection_date": "2025-11-10",
+    "evidence_path": "evidence/MP029.jpg",
+    "products":[
+      {
+        "name": "Salti Crackers",
+        "category": "galletas",
+        "brand": "CoRall",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1200,
+        "net_weight": 590
+      },
+      {
+        "name": "Salsa de Mayonesa",
+        "category": "agregado para bocados",
+        "brand": "HollandPark",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1000,
+        "net_weight": 250
+      },
+      {
+        "name": "Jugo de Nectar de Melocotón",
+        "category": "jugos",
+        "brand": "Goliath",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 800,
+        "net_weight": 946
+      },
+      {
+        "name": "Jugo de  Nectar de Manzana",
+        "category": "jugos",
+        "brand": "Bondelli",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 180,
+        "net_weight": 200
+      
+      },
+      {
+        "name": "Jugo de  Nectar de Piña",
+        "category": "jugos",
+        "brand": "Bondelli",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 180,
+        "net_weight": 200
+      
+      },
+      {
+        "name": "Jugo de Manzana Santar",
+        "category": "jugos",
+        "brand": "Santal",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 200,
+        "net_weight": 200
+      
+      },
+      {
+        "name": "Jugo de Pera Santar",
+        "category": "jugos",
+        "brand": "Santal",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 200,
+        "net_weight": 200
+      
+      },
+      {
+        "name": "Shampoo",
+        "category": "shampoo",
+        "brand": "Anenta",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 600,
+        "net_weight": 413
+      },
+      {
+        "name": "Spray-Desodorante",
+        "category": "desodorante",
+        "brand": "Axe",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1200,
+        "net_weight": 150
+      },
+      {
+        "name": "Desodorante de gel",
+        "category": "desodorante",
+        "brand": "Gillete",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1200,
+        "net_weight": 107
+      },
+      {
+        "name": "Papel higiénico",
+        "category": "papel sanitario",
+        "brand": "La Excelencia",
+        "unit": "u",
+        "origin": "nacional",
+        "price_cup": 650,
+        "net_weight": 4
+      },
+      {
+        "name": "Agua embotellada",
+        "category": "agua",
+        "brand": "Ciego Montero",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 160,
+        "net_weight": 500
+      }
+    ]
+    },
+    {
+    "store_id": "MP030",
+    "name": "Sin registrar",
+    "coordinates": {
+      "lat": 23.117940,
+      "lon": -82.432629
+    },
+    "distance_to_hospital": 4.9,
+    "collection_date": "2025-12-16",
+    "evidence_path": "evidence/MP030.jpg",
+    "products": [
+      {
+        "name": "Salti Crackers",
+        "category": "galletas",
+        "brand": "CoRall",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 1200,
+        "net_weight": 590
+      },
+      {
+        "name": "Yogurt probiótico Santa Ana",
+        "category": "yogurt",
+        "brand": "Santa Ana",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 1400,
+        "net_weight": 1000
+      },
+      {
+        "name": "Papel higiénico Amoos Essential",
+        "category": "papel sanitario",
+        "brand": "Amoos",
+        "unit": "u",
+        "origin": "nacional",
+        "price_cup": 3000,
+        "net_weight": 12
+      }
+
+    ]
+   }
+  
+]

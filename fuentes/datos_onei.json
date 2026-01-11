@@ -1,0 +1,14 @@
+{
+    "source": "Oficina Nacional de Estadistica e Información",
+    "colection_date": "2025-12-14",
+    "indicators": [
+        {
+            "name" : "salario_medio",
+            "year" : "2023",
+            "value" :  5354,
+            "unit" : "pesos cubanos (cup)",
+            "description" : "Salario Medio Mensual en Entidades Económicas Estatales y Mixtas en La Habana" 
+        }
+        
+    ] 
+}

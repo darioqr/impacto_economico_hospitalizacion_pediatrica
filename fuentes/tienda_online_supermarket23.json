@@ -1,0 +1,1121 @@
+{
+        "yogurt": [
+    {
+      "name": "Yogurt pasteurizado natural YEYA",
+      "price_usd": 2.25,
+      "unit": "ml",
+      "net_weight": 500
+    },
+    {
+      "name": "Yogurt pasteurizado sabor macedonia YEYA",
+      "price_usd": 2.25,
+      "unit": "g",
+      "net_weight": 500
+    },
+    {
+      "name": "Yogurt pasteurizado sabor macedonia YEYA",
+      "price_usd": 12.78,
+      "unit": "g",
+      "net_weight": 3000
+    },
+    {
+      "name": "Yogur de plátano Feiraco Yogu+",
+      "price_usd": 0.66,
+      "unit": "ml",
+      "net_weight": 125
+    },
+    {
+      "name": "Yogur de plátano Feiraco Yogu+",
+      "price_usd": 2.59,
+      "unit": "ml",
+      "net_weight": 480
+    },
+    {
+      "name": "Yogur natural Jimm",
+      "price_usd": 3.29,
+      "unit": "ml",
+      "net_weight": 1560
+    },
+    {
+      "name": "Yogurt de fresa con probióticos YEYA",
+      "price_usd": 5.99,
+      "unit": "ml",
+      "net_weight": 1540
+    },
+    {
+      "name": "Yogurt batido de fresa RHD",
+      "price_usd": 2.32,
+      "unit": "ml",
+      "net_weight": 920
+    },
+    {
+      "name": "Yogurt probiótico especial sabor fresa Lialy's",
+      "price_usd": 12.95,
+      "unit": "ml",
+      "net_weight": 4000
+    },
+    {
+      "name": "Yogurt de fresa con probióticos Yokey",
+      "price_usd": 6.99,
+      "unit": "ml",
+      "net_weight": 1540
+    },
+    {
+      "name": "Yogurt probiótico de coágulo saborizado de fresa Cid",
+      "price_usd": 3.56,
+      "unit": "ml",
+      "net_weight": 1000
+    },
+    {
+      "name": "Yogurt probiótico de coágulo sabor fresa RHD",
+      "price_usd": 2.86,
+      "unit": "ml",
+      "net_weight": 1000
+    },
+    {
+      "name": "Yogurt probiótico de coágulo 100% natural Cid",
+      "price_usd": 3.56,
+      "unit": "ml",
+      "net_weight": 1000
+    }
+  ],
+
+  "desodorante": [
+    {
+      "name": "Desodorante axilas suaves y bellas Pearl & Beauty Nivea",
+      "price_usd": 4.99,
+      "unit": "ml",
+      "net_weight": 50
+    },
+    {
+      "name": "Desodorante bloom roll on Emotion",
+      "price_usd": 1.99,
+      "unit": "ml",
+      "net_weight": 50
+    },
+    {
+      "name": "Desodorante antitranspirante protección total Men+care Dove",
+      "price_usd": 2.93,
+      "unit": "ml",
+      "net_weight": 50
+    },
+    {
+      "name": "Desodorante de fragancia fresca del oceano Emotion",
+      "price_usd": 1.99,
+      "unit": "ml",
+      "net_weight": 50
+    },
+    {
+      "name": "Desodorante original crema humectante Dove",
+      "price_usd": 2.51,
+      "unit": "ml",
+      "net_weight": 50
+    },
+    {
+      "name": "Desodorante y spray corporal para hombres Ice Chill Axe",
+      "price_usd": 3.61,
+      "unit": "ml",
+      "net_weight": 150
+    },
+    {
+      "name": "Desodorante para mujer Frescura Floral Obao Garnier",
+      "price_usd": 3.89,
+      "unit": "g",
+      "net_weight": 65
+    },
+    {
+      "name": "Desodorante antitranspirante Powder Dry Rexona",
+      "price_usd": 3.99,
+      "unit": "ml",
+      "net_weight": 30
+    },
+    {
+      "name": "Desodorante roll-on antitranspirante Aloe Vera S'nonas",
+      "price_usd": 3.32,
+      "unit": "ml",
+      "net_weight": 50
+    },
+    {
+      "name": "Desodorante antitranspirante para hombre Tattoo Obao Garnier",
+      "price_usd": 3.99,
+      "unit": "g",
+      "net_weight": 65
+    },
+    {
+      "name": "Desodorante en spray Original Dove",
+      "price_usd": 6.02,
+      "unit": "ml",
+      "net_weight": 150
+    },
+    {
+      "name": "Desodorante en spray con aroma a pepino y te verde go fresh Dove",
+      "price_usd": 6.02,
+      "unit": "ml",
+      "net_weight": 150
+    }
+  ],
+
+   "agua": [
+    {
+      "name": "Agua mineral natural Ciego Montero",
+      "price_usd": 1.93,
+      "unit": "ml",
+      "net_weight": 5000
+    },
+    {
+      "name": "Agua mineral natural Ciego Montero",
+      "price_usd": 0.60,
+      "unit": "ml",
+      "net_weight": 1500
+    },
+    {
+      "name": "Agua mineral natural Sant'Anna",
+      "price_usd": 0.80,
+      "unit": "ml",
+      "net_weight": 1500
+    },
+    {
+      "name": "Agua mineral natural Ciego Montero",
+      "price_usd": 0.33,
+      "unit": "ml",
+      "net_weight": 500
+    },
+    {
+      "name": "Agua mineral natural Sant'Anna",
+      "price_usd": 0.34,
+      "unit": "ml",
+      "net_weight": 350
+    },
+    {
+      "name": "Agua mineral natural Sant'Anna",
+      "price_usd": 0.35,
+      "unit": "ml",
+      "net_weight": 500
+    },
+    {
+      "name": "Agua mineral natural Ciego Montero",
+      "price_usd": 0.42,
+      "unit": "ml",
+      "net_weight": 500
+    },
+    {
+      "name": "Agua mineral natural Gourmet Aquadeus",
+      "price_usd": 1.39,
+      "unit": "ml",
+      "net_weight": 1000
+    },
+    {
+      "name": "Agua mineral natural Aquadeus",
+      "price_usd": 0.59,
+      "unit": "ml",
+      "net_weight": 330
+    },
+    {
+      "name": "Agua mineral Fuska",
+      "price_usd": 1.16,
+      "unit": "ml",
+      "net_weight": 1500
+    },
+    {
+      "name": "Agua mineral natural Lunares",
+      "price_usd": 0.52,
+      "unit": "ml",
+      "net_weight": 330
+    },
+    {
+      "name": "Agua mineral Fuska",
+      "price_usd": 1.57,
+      "unit": "ml",
+      "net_weight": 330
+    }
+  ],
+
+  
+  "leche": [
+    {
+      "name": "Leche entera Covap",
+      "price_usd": 2.59,
+      "unit": "ml",
+      "net_weight": 1000
+    },
+    {
+      "name": "Leche entera microfiltrada Sterilgarda",
+      "price_usd": 2.90,
+      "unit": "ml",
+      "net_weight": 1000
+    },
+    {
+      "name": "Leche entera Président",
+      "price_usd": 2.75,
+      "unit": "ml",
+      "net_weight": 1000
+    },
+    {
+      "name": "Leche entera Pascual",
+      "price_usd": 3.19,
+      "unit": "ml",
+      "net_weight": 1000
+    }
+  ],
+        "jugos": [
+    {
+      "name": "Néctar de mango YEYA",
+      "price_usd": 1.99,
+      "unit": "ml",
+      "net_weight": 1000
+    },
+    {
+      "name": "Néctar de pera YEYA",
+      "price_usd": 1.99,
+      "unit": "ml",
+      "net_weight": 1000
+    },
+    {
+      "name": "Jugo de frutas sabor manzana YEYA",
+      "price_usd": 0.22,
+      "unit": "ml",
+      "net_weight": 125
+    },
+    {
+      "name": "Jugo de frutas sabor naranja YEYA",
+      "price_usd": 0.22,
+      "unit": "ml",
+      "net_weight": 125
+    },
+    {
+      "name": "Jugo de manzana Badelli",
+      "price_usd": 0.48,
+      "unit": "ml",
+      "net_weight": 200
+    },
+    {
+      "name": "Jugo de melocotón Jumex",
+      "price_usd": 0.63,
+      "unit": "ml",
+      "net_weight": 200
+    },
+    {
+      "name": "Jugo de mango Fattorie Crisci",
+      "price_usd": 3.25,
+      "unit": "ml",
+      "net_weight": 1000
+    },
+    {
+      "name": "Jugo sabor a piña Dimes",
+      "price_usd": 0.89,
+      "unit": "ml",
+      "net_weight": 200
+    },
+    {
+      "name": "Zumo de manzana enriquecido con vitamina C Don Simon",
+      "price_usd": 0.49,
+      "unit": "ml",
+      "net_weight": 200
+    },
+    {
+      "name": "Néctar de mango YEYA",
+      "price_usd": 2.05,
+      "unit": "ml",
+      "net_weight": 1000
+    },
+    {
+      "name": "Néctar de pera Goliath",
+      "price_usd": 2.60,
+      "unit": "ml",
+      "net_weight": 946
+    },
+    {
+      "name": "Néctar de manzana Goliath",
+      "price_usd": 3.01,
+      "unit": "ml",
+      "net_weight": 946
+    },
+    {
+      "name": "Néctar de mango Mocitos",
+      "price_usd": 2.60,
+      "unit": "ml",
+      "net_weight": 1000
+    }
+  ],
+
+
+"galletas": [
+    {
+      "name": "Galletas saladas Ducales",
+      "price_usd": 0.82,
+      "unit": "g",
+      "net_weight": 105
+    },
+    {
+      "name": "Galletas saladas sabor queso y mantequilla Saltín Noel",
+      "price_usd": 2.97,
+      "unit": "g",
+      "net_weight": 338
+    },
+    {
+      "name": "Galletas saladas tradicional Saltín Noel",
+      "price_usd": 0.76,
+      "unit": "g",
+      "net_weight": 102
+    },
+    {
+      "name": "Galleta salada Ducales",
+      "price_usd": 3.02,
+      "unit": "g",
+      "net_weight": 243
+    },
+    {
+      "name": "Galletas saladas queso y mantequilla 2 tacos Saltín Noel",
+      "price_usd": 2.27,
+      "unit": "g",
+      "net_weight": 225
+    },
+    {
+      "name": "Galletas saladas Ducales",
+      "price_usd": 0.59,
+      "unit": "g",
+      "net_weight": 105
+    },
+    
+    {
+      "name": "Galletas saladas Aldiva snack (pack 24)",
+      "price_usd": 10.24,
+      "unit": "g",
+      "net_weight": 1320
+    },
+    {
+      "name": "Galletas saladas Ducales",
+      "price_usd": 2.74,
+      "unit": "g",
+      "net_weight": 294
+    },
+    {
+      "name": "Galletas saladas original Goya",
+      "price_usd": 3.40,
+      "unit": "g",
+      "net_weight": 300
+    }
+    
+],
+    
+  "compota": [
+    {
+      "name": "Compota de macedonia YEYA",
+      "price_usd": 0.89,
+      "unit": "g",
+      "net_weight": 113
+    },
+    {
+      "name": "Compota de mango YEYA",
+      "price_usd": 0.89,
+      "unit": "g",
+      "net_weight": 113
+    },
+    {
+      "name": "Compota de durazno Baby Fruit",
+      "price_usd": 1.12,
+      "unit": "g",
+      "net_weight": 113
+    },
+    {
+      "name": "Compota de mango Baby Fruit",
+      "price_usd": 1.05,
+      "unit": "g",
+      "net_weight": 113
+    },
+    {
+      "name": "Compota de pera Baby Fruit",
+      "price_usd": 1.05,
+      "unit": "g",
+      "net_weight": 113
+    },
+    {
+      "name": "Compota de banana Fresko",
+      "price_usd": 1.31,
+      "unit": "g",
+      "net_weight": 113
+    },
+    {
+      "name": "Crema de mango El Roble",
+      "price_usd": 2.29,
+      "unit": "g",
+      "net_weight": 500
+    },
+    {
+      "name": "Mermelada de mango El Roble",
+      "price_usd": 1.69,
+      "unit": "g",
+      "net_weight": 500
+    },
+    {
+      "name": "Mermelada de guayaba El Roble",
+      "price_usd": 1.52,
+      "unit": "g",
+      "net_weight": 450
+    },
+    {
+      "name": "Mermelada de guayaba El Roble",
+      "price_usd": 1.69,
+      "unit": "g",
+      "net_weight": 500
+    }
+  ],
+    
+        
+  "carnes enlatadas": [
+    {
+      "name": "Carne de res enlatada Coren",
+      "price_usd": 5.69,
+      "unit": "g",
+      "net_weight": 400
+    },
+    {
+      "name": "Carne enlatada - fiambre magro de cerdo COREN",
+      "price_usd": 4.19,
+      "unit": "g",
+      "net_weight": 415
+    },
+    {
+      "name": "Carne de cerdo enlatada Goya",
+      "price_usd": 5.99,
+      "unit": "g",
+      "net_weight": 340
+    },
+    {
+      "name": "Corte de cerdo enlatado Coren",
+      "price_usd": 4.49,
+      "unit": "g",
+      "net_weight": 425
+    },
+    {
+      "name": "Carne de res enlatada Texana (pack 3)",
+      "price_usd": 11.02,
+      "unit": "g",
+      "net_weight": 1200
+    },
+    {
+      "name": "Carne de res enlatada Texana (pack 5)",
+      "price_usd": 18.31,
+      "unit": "g",
+      "net_weight": 2000
+    },
+    {
+      "name": "Fiambre de carne de vacuno YEYA",
+      "price_usd": 4.83,
+      "unit": "g",
+      "net_weight": 415
+    },
+    {
+      "name": "Fiambre de carne de vacuno YEYA",
+      "price_usd": 4.83,
+      "unit": "g",
+      "net_weight": 415
+    },
+    {
+      "name": "Carne de res Sublime",
+      "price_usd": 2.25,
+      "unit": "g",
+      "net_weight": 400
+    },
+    {
+      "name": "Atún lomitos en aceite de girasol Yeli",
+      "price_usd": 10.40,
+      "unit": "g",
+      "net_weight": 1000
+    },
+    {
+      "name": "Atún lomitos con aceite de girasol Yeli",
+      "price_usd": 1.99,
+      "unit": "g",
+      "net_weight": 140
+    },
+    {
+      "name": "Atún lomitos en aceite de girasol Yeli",
+      "price_usd": 14.72,
+      "unit": "g",
+      "net_weight": 1000
+    },
+    {
+      "name": "Atún en aceite vegetal Docanned Star",
+      "price_usd": 11.79,
+      "unit": "g",
+      "net_weight": 1000
+    },
+    {
+      "name": "Atún en aceite vegetal Docanned Star",
+      "price_usd": 12.33,
+      "unit": "g",
+      "net_weight": 1000
+    },
+    {
+      "name": "Troncho de pescado en aceite vegetal Vima Foods",
+      "price_usd": 3.59,
+      "unit": "g",
+      "net_weight": 425
+    }
+  ],
+
+
+
+  "verduras y legumbres enlatadas": [
+    {
+      "name": "Frijoles colorados enlatados Goya",
+      "price_usd": 2.47,
+      "unit": "g",
+      "net_weight": 439
+    },
+    {
+      "name": "Frijol negro enlatado Goya",
+      "price_usd": 2.47,
+      "unit": "g",
+      "net_weight": 439
+    },
+    {
+      "name": "Frijoles blancos enlatados Goya",
+      "price_usd": 2.47,
+      "unit": "g",
+      "net_weight": 439
+    },
+    {
+      "name": "Macedonia de verduras Celorrio",
+      "price_usd": 1.99,
+      "unit": "g",
+      "net_weight": 390
+    },
+    {
+      "name": "Maíz dulce en grano Vivó",
+      "price_usd": 2.47,
+      "unit": "g",
+      "net_weight": 340
+    },
+    {
+      "name": "Macedonia de verduras Vima Foods",
+      "price_usd": 3.19,
+      "unit": "g",
+      "net_weight": 535
+    },
+    {
+      "name": "Ensalada de verduras La Costeña",
+      "price_usd": 1.87,
+      "unit": "g",
+      "net_weight": 410
+    },
+    {
+      "name": "Macedonia de verduras Vivó",
+      "price_usd": 4.08,
+      "unit": "g",
+      "net_weight": 660
+    }
+  ],
+
+
+    
+  "Frutas enlatadas": [
+    {
+      "name": "Fruta bomba madura congelada MCH",
+      "price_usd": 2.94,
+      "unit": "g",
+      "net_weight": 907
+    },
+    {
+      "name": "Fruta bomba madura congelada Towersfull",
+      "price_usd": 3.82,
+      "unit": "g",
+      "net_weight": 1000
+    },
+    {
+      "name": "Fruta bomba verde congelada Towersfull",
+      "price_usd": 3.10,
+      "unit": "g",
+      "net_weight": 1000
+    },
+    {
+      "name": "Smoothies de zanahoria, mango, piña y maracuyá Vima Foods",
+      "price_usd": 5.19,
+      "unit": "g",
+      "net_weight": 420
+    },
+    {
+      "name": "Calabaza cortada y congelada Cosecha Real",
+      "price_usd": 1.70,
+      "unit": "g",
+      "net_weight": 500
+    },
+    {
+      "name": "Plátano vianda híbrido maduro o pintón Cosecha Real",
+      "price_usd": 8.70,
+      "unit": "g",
+      "net_weight": 3000
+    }
+  ],
+
+         "jabón": [
+    {
+      "name": "Jabón de tocador de rosa YEYA (pack 5)",
+      "price_usd": 1.31,
+      "unit": "g",
+      "net_weight": 300
+    },
+    {
+      "name": "Jabón de tocador de manzana YEYA (pack 5)",
+      "price_usd": 1.71,
+      "unit": "g",
+      "net_weight": 300
+    },
+    {
+      "name": "Jabón de tocador con aroma floral Royal Lady",
+      "price_usd": 0.27,
+      "unit": "g",
+      "net_weight": 80
+    },
+    {
+      "name": "Jabón de tocador con aroma a oliva Royal Lady",
+      "price_usd": 0.27,
+      "unit": "g",
+      "net_weight": 80
+    },
+    {
+      "name": "Jabón de tocador con aroma a jazmín Royal Lady",
+      "price_usd": 0.27,
+      "unit": "g",
+      "net_weight": 80
+    },
+    {
+      "name": "Jabón de tocador de manzana YEYA",
+      "price_usd": 2.11,
+      "unit": "g",
+      "net_weight": 300
+    },
+    {
+      "name": "Jabón de tocador de oliva YEYA",
+      "price_usd": 1.72,
+      "unit": "g",
+      "net_weight": 300
+    },
+    {
+      "name": "Jabón de tocador con aroma a naranja Royal Lady",
+      "price_usd": 0.27,
+      "unit": "g",
+      "net_weight": 80
+    },
+    {
+      "name": "Jabón de baño de fresa Harmony",
+      "price_usd": 0.61,
+      "unit": "g",
+      "net_weight": 70
+    },
+    {
+      "name": "Jabón de tocador con aroma floral violetas Natural S&C",
+      "price_usd": 0.42,
+      "unit": "g",
+      "net_weight": 75
+    },
+    {
+      "name": "Jabón tocador aloe Nature",
+      "price_usd": 0.60,
+      "unit": "g",
+      "net_weight": 100
+    },
+    {
+      "name": "Jabón de tocador Bambú",
+      "price_usd": 0.41,
+      "unit": "g",
+      "net_weight": 100
+    },
+    {
+      "name": "Jabón de lavar con enzimas Prolight",
+      "price_usd": 1.53,
+      "unit": "g",
+      "net_weight": 200
+    },
+    {
+      "name": "Jabón de tocador con miel y propóleo Suchel Camacho",
+      "price_usd": 0.89,
+      "unit": "g",
+      "net_weight": 125
+    },
+    {
+      "name": "Jabón de tocador antibacterial de aloe vera Dex",
+      "price_usd": 0.69,
+      "unit": "g",
+      "net_weight": 125
+    },
+    {
+      "name": "Jabón de tocador rosa y leche Dex",
+      "price_usd": 0.40,
+      "unit": "g",
+      "net_weight": 60
+    },
+    {
+      "name": "Jabón de lavar Albaraka",
+      "price_usd": 1.20,
+      "unit": "g",
+      "net_weight": 150
+    }
+  ],
+
+
+
+     "shampoo": [
+    {
+      "name": "Champú liso perfecto Sedal",
+      "price_usd": 3.07,
+      "unit": "ml",
+      "net_weight": 300
+    },
+    {
+      "name": "Champú anti-caída del cabello Duru",
+      "price_usd": 2.70,
+      "unit": "ml",
+      "net_weight": 600
+    },
+    {
+      "name": "Champú anticaspa Comfor Time",
+      "price_usd": 1.83,
+      "unit": "ml",
+      "net_weight": 400
+    },
+    {
+      "name": "Champú voluminizador Duru",
+      "price_usd": 2.70,
+      "unit": "ml",
+      "net_weight": 600
+    },
+    {
+      "name": "Champú aceite de oliva Kuidare",
+      "price_usd": 4.99,
+      "unit": "ml",
+      "net_weight": 1000
+    },
+    {
+      "name": "Champú sin sal con miel de abejas y propóleos Suchel Camacho",
+      "price_usd": 3.99,
+      "unit": "ml",
+      "net_weight": 400
+    },
+    {
+      "name": "Champú 2 en 1 suave y manejable Head & Shoulders",
+      "price_usd": 4.99,
+      "unit": "ml",
+      "net_weight": 180
+    },
+    {
+      "name": "Champú control caída Pantene Pro-V",
+      "price_usd": 5.49,
+      "unit": "ml",
+      "net_weight": 200
+    },
+    {
+      "name": "Champú restauración Pro-V Pantene",
+      "price_usd": 2.99,
+      "unit": "ml",
+      "net_weight": 100
+    },
+    {
+      "name": "Champú con aceite de oliva y aloe vera para cabello normal Hail",
+      "price_usd": 2.82,
+      "unit": "ml",
+      "net_weight": 600
+    },
+    {
+      "name": "Champú restauración Pantene Pro-V",
+      "price_usd": 5.49,
+      "unit": "ml",
+      "net_weight": 200
+    },
+    {
+      "name": "Champú y acondicionador rizos definidos 2 en 1 Pantene",
+      "price_usd": 3.99,
+      "unit": "ml",
+      "net_weight": 100
+    },
+    {
+      "name": "Champú brillo ceramidas Sedal",
+      "price_usd": 4.99,
+      "unit": "ml",
+      "net_weight": 180
+    },
+    {
+      "name": "Champú sin sal a base de aceite de argán Brazilian Wow NT",
+      "price_usd": 3.82,
+      "unit": "ml",
+      "net_weight": 500
+    },
+    {
+      "name": "Champú de coco y vainilla Nina",
+      "price_usd": 3.15,
+      "unit": "ml",
+      "net_weight": 400
+    }
+  ],
+
+    
+    "pasta dental": [
+    {
+      "name": "Pasta dental con protección de caries y blancura permanente Sanino",
+      "price_usd": 1.65,
+      "unit": "g",
+      "net_weight": 128
+    },
+    {
+      "name": "Pasta dental Triple Action Colgate",
+      "price_usd": 2.99,
+      "unit": "ml",
+      "net_weight": 50
+    },
+    {
+      "name": "Pasta dental sabor menta Clean Mint Total 12 Colgate",
+      "price_usd": 3.18,
+      "unit": "g",
+      "net_weight": 170
+    },
+    {
+      "name": "Pasta dental triple acción Colgate",
+      "price_usd": 4.19,
+      "unit": "ml",
+      "net_weight": 75
+    },
+    {
+      "name": "Pasta dental anticaries con flúor Menta Fresca Royalfresh",
+      "price_usd": 2.81,
+      "unit": "g",
+      "net_weight": 115
+    },
+    {
+      "name": "Pasta dental cavity protección Colgate",
+      "price_usd": 4.70,
+      "unit": "g",
+      "net_weight": 226
+    },
+    {
+      "name": "Cepillo de dientes para adultos + Pasta dental sabor menta Peppermint Ice Max Fresh Colgate",
+      "price_usd": 4.49,
+      "unit": "g",
+      "net_weight": 225
+    },
+    {
+      "name": "Pasta dental Colgate Total 12",
+      "price_usd": 2.99,
+      "unit": "ml",
+      "net_weight": 22
+    },
+    {
+      "name": "Pasta dental Dento Kiss",
+      "price_usd": 2.13,
+      "unit": "g",
+      "net_weight": 125
+    },
+    {
+      "name": "Pasta dental Colgate Luminous White",
+      "price_usd": 2.99,
+      "unit": "ml",
+      "net_weight": 50
+    },
+    {
+      "name": "Pasta dental con flúor 4 en 1 Crest",
+      "price_usd": 3.99,
+      "unit": "ml",
+      "net_weight": 50
+    },
+    {
+      "name": "Pasta dental triple acción Colgate (pack 2)",
+      "price_usd": 8.27,
+      "unit": "g",
+      "net_weight": 140
+    },
+    {
+      "name": "Pasta dental Crest Complete 4 en 1",
+      "price_usd": 4.99,
+      "unit": "ml",
+      "net_weight": 100
+    },
+    {
+      "name": "Pasta dental con protección de caries y blancura permanente Sanino",
+      "price_usd": 2.11,
+      "unit": "g",
+      "net_weight": 128
+    }
+  ],
+
+        
+
+    "papel sanitario": [
+    {
+      "name": "Papel sanitario de hojas dobles YEYA",
+      "price_usd": 1.68,
+      "unit": "u",
+      "net_weight": 4
+    },
+    {
+      "name": "Papel sanitario Soul soft",
+      "price_usd": 5.99,
+      "unit": "u",
+      "net_weight": 16
+    },
+    {
+      "name": "Papel sanitario Soul soft",
+      "price_usd": 1.30,
+      "unit": "u",
+      "net_weight": 4
+    },
+    {
+      "name": "Papel sanitario Extrela Confort",
+      "price_usd": 5.15,
+      "unit": "u",
+      "net_weight": 12
+    },
+    {
+      "name": "Papel sanitario La Excelencia",
+      "price_usd": 1.33,
+      "unit": "u",
+      "net_weight": 4
+    },
+    {
+      "name": "Papel sanitario Colhogar",
+      "price_usd": 5.96,
+      "unit": "u",
+      "net_weight": 12
+    },
+    {
+      "name": "Papel sanitario doméstico doble hoja Acácia",
+      "price_usd": 5.23,
+      "unit": "u",
+      "net_weight": 12
+    },
+    {
+      "name": "Papel sanitario doméstico Scott Brand",
+      "price_usd": 2.17,
+      "unit": "u",
+      "net_weight": 4
+    },
+    {
+      "name": "Papel sanitario Extrela Confort",
+      "price_usd": 5.53,
+      "unit": "u",
+      "net_weight": 12
+    },
+    {
+      "name": "Papel sanitario La Excelencia",
+      "price_usd": 1.56,
+      "unit": "u",
+      "net_weight": 4
+    },
+    {
+      "name": "Papel sanitario doméstico clásico Encanto",
+      "price_usd": 3.14,
+      "unit": "u",
+      "net_weight": 4
+    },
+    {
+      "name": "Papel higiénico de doble capa Amoos",
+      "price_usd": 9.61,
+      "unit": "u",
+      "net_weight": 12
+    },
+    {
+      "name": "Papel higiénico Acácia",
+      "price_usd": 5.16,
+      "unit": "u",
+      "net_weight": 12
+    },
+    
+    {
+      "name": "Papel higiénico Garbi",
+      "price_usd": 3.95,
+      "unit": "u",
+      "net_weight": 6
+    }
+
+    ],
+
+        "agregado para bocados" : [
+
+    {
+      "name": "Pasta para bocaditos YEYA",
+      "price_usd": 4.42,
+      "unit": "ml",
+      "net_weight": 465
+    },
+    {
+      "name": "Pasta para bocaditos Aldaketa",
+      "price_usd": 3.99,
+      "unit": "ml",
+      "net_weight": 465
+    },
+    {
+      "name": "Pasta para bocaditos Aldaketa",
+      "price_usd": 4.70,
+      "unit": "ml",
+      "net_weight": 465
+    },
+    {
+      "name": "Pasta para bocaditos YEYA (pack 5)",
+      "price_usd": 18.94,
+      "unit": "ml",
+      "net_weight": 2325
+    },
+    {
+      "name": "Salsa mayonesa Liotti",
+      "price_usd": 2.99,
+      "unit": "ml",
+      "net_weight": 300
+    },
+    {
+      "name": "Mayonesa YEYA",
+      "price_usd": 1.99,
+      "unit": "ml",
+      "net_weight": 350
+    },
+    {
+      "name": "Mayonesa YEYA",
+      "price_usd": 2.09,
+      "unit": "ml",
+      "net_weight": 350
+    },
+    {
+      "name": "Mayonesa Nova",
+      "price_usd": 4.26,
+      "unit": "ml",
+      "net_weight": 887
+    },
+    {
+      "name": "Mayonesa Celorrio",
+      "price_usd": 3.69,
+      "unit": "ml",
+      "net_weight": 500
+    },
+    {
+      "name": "Mayonesa Real Kurtz",
+      "price_usd": 6.82,
+      "unit": "ml",
+      "net_weight": 887
+    },
+    {
+      "name": "Mayonesa Remia",
+      "price_usd": 2.06,
+      "unit": "ml",
+      "net_weight": 250
+    },
+    {
+      "name": "Mayonesa gourmet Cosami",
+      "price_usd": 2.41,
+      "unit": "ml",
+      "net_weight": 465
+    },
+    {
+      "name": "Mayonesa HollandPark",
+      "price_usd": 2.47,
+      "unit": "ml",
+      "net_weight": 250
+    },
+    {
+      "name": "Mayonesa HollandPark",
+      "price_usd": 2.29,
+      "unit": "ml",
+      "net_weight": 250
+    }
+  ]
+
+        
+}
+        

@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "2025-11-17",
+    "tasa_usd_cup": 450,
+    "tasa_mlc_cup": 215
+  },
+  {
+    "fecha": "2025-11-25", 
+    "tasa_usd_cup": 435,
+    "tasa_mlc_cup": 240
+  },
+  {
+    "fecha": "2025-12-03",
+    "tasa_usd_cup": 450,
+    "tasa_mlc_cup": 285
+  },
+  {
+    "fecha": "2025-12-17",
+    "tasa_usd_cup": 460,
+    "tasa_mlc_cup": 285
+  },
+   {
+    "fecha": "2026-01-10",
+    "tasa_usd_cup": 460,
+    "tasa_mlc_cup": 400
+  }
+  
+]

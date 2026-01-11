@@ -1,0 +1,101 @@
+{
+      "yogurt": {
+        "unidad": "1000 ml",
+        "contenido_neto": 1000,
+        "cantidad_semanal": 2,
+        "justificacion": "Probióticos diarios para flora intestinal"
+      },
+      "desodorante": {
+        "unidad": "65 ml",
+        "contenido_neto": 65,
+        "cantidad_semanal": 1,
+        "justificacion": "Higiene personal semanal"
+      },
+      "agua": {
+        "unidad": "500 ml",
+        "contenido_neto": 500,
+        "cantidad_semanal": 14,
+        "justificacion": "Hidratación básica - 2 unidades diarias"
+      },
+      "jugos" : {
+        "unidad_minima_observada": "200 ml",
+        "contenido_neto": 200,
+        "cantidad_semanal": 7,
+        "justificacion": "Vitaminas e hidratación adicional"
+      },
+      "leche" : {
+        "unidad": "1000 ml",
+        "contenido_neto": 1000,
+        "cantidad_semanal": 2,
+        "justificacion": "Calcio y nutrientes esenciales"
+      },
+
+      "galletas" : {
+        "unidad": "590 g",
+        "contenido_neto": 590,
+        "cantidad_semanal": 1,
+        "justificacion": "Carbohidratos para energía"
+      },
+
+      "compota" : {
+        "unidad_minima_observada": "679 g",
+        "contenido_neto": 679,
+        "cantidad_semanal": 1,
+        "justificacion": "Fibra suave y energía"
+      },
+
+      "carnes enlatadas" : {
+        
+        "unidad": "340 g",
+        "contenido_neto": 340,
+        "cantidad_semanal": 4,
+        "justificacion": "Proteína animal - días alternos"
+      },
+      "verduras y legumbres enlatadas" : {
+        
+        "unidad": "420 g",
+        "contenido_neto": 420,
+        "cantidad_semanal": 3,
+        "justificacion": "Vegetales - 4 veces por semana"
+      },
+      "Frutas enlatadas" : {
+        "categoria": "Frutas enlatadas",
+        "unidad": "425 g",
+        "contenido_neto": 425,
+        "cantidad_semanal": 3,
+        "justificacion": "Frutas - días alternos"
+      },
+      "jabón" : {
+        "unidad_minima_observada": "100 g",
+        "contenido_neto": 100,
+        "cantidad_semanal": 1,
+        "justificacion": "Higiene personal semanal"
+      },
+
+      "shampoo" : {
+        "unidad": "400 ml",
+        "contenido_neto": 400,
+        "cantidad_semanal": 1,
+        "justificacion": "Lavado de cabello semanal"
+      },
+
+      "pasta dental" : {
+        "unidad": "80 g",
+        "contenido_neto": 80,
+        "cantidad_semanal": 1,
+        "justificacion": "Higiene bucal semanal"
+      },
+
+      "papel sanitario" : {
+        "unidad": "1 u",
+        "contenido_neto": 1,
+        "cantidad_semanal": 1,
+        "justificacion": "Necesidades básicas semanales"
+      },
+      "agregado para bocados" : {
+        "unidad": "250 ml",
+        "contenido_neto": 250,
+        "cantidad_semanal": 1,
+        "justificacion": "Complemento alimenticio"
+      }
+}
